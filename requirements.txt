@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+sqlalchemy
+asyncpg
+psycopg2-binary
+
+python-multipart
+pip install pandas openpyxl
