@@ -6,4 +6,4 @@ asyncpg
 psycopg2-binary
 
 python-multipart
-pip install pandas openpyxl
+
